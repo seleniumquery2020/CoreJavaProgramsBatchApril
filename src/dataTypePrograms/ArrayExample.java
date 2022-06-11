@@ -17,6 +17,6 @@ public class ArrayExample {
 	    System.out.println(arr[4]);
 			arr[4] = 85;
 			   System.out.println(arr[4]);	
-				
+				System.out.println(arr);
 	}
 }
