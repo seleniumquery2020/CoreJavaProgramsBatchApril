@@ -41,5 +41,6 @@ public class StringClass {
 		System.out.println("Last Index of character after some character = " + str.lastIndexOf('e',7)); 
 
 		
+		
 	}
 }
